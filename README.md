@@ -1,0 +1,2 @@
+# POE2Smoother
+Free
